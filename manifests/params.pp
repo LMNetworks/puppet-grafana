@@ -20,6 +20,6 @@ class grafana::params {
   $package_source      = undef
   $rpm_iteration       = '1'
   $service_name        = 'grafana-server'
-  $version             = '4.0.2-1481203731'
+  $version             = '4.1.1-1484211277'
   $repo_name           = 'stable'
 }
